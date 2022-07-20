@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T03:48:32.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="ma-mYnCXFtQUXWXYcMxO" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T04:01:27.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="DFdbLqOFWT6A7x4LTw_E" version="20.1.1" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="5684" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -170,25 +170,25 @@
           <mxGeometry x="-738" y="1331" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-771" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;权限管理&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=16;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
-          <mxGeometry x="-1760" y="1100" width="180" height="100" as="geometry" />
+          <mxGeometry x="-1766" y="1100" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-775" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;角色管理&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=16;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
-          <mxGeometry x="-1555" y="1100" width="180" height="100" as="geometry" />
+          <mxGeometry x="-1563" y="1100" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-776" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用户管理&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=16;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
-          <mxGeometry x="-1350" y="1100" width="180" height="100" as="geometry" />
+          <mxGeometry x="-1361" y="1100" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-777" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;分级管理&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=16;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
-          <mxGeometry x="-1145" y="1100" width="180" height="100" as="geometry" />
+          <mxGeometry x="-1159" y="1100" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-778" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;分域管理&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=16;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="1100" width="180" height="100" as="geometry" />
+          <mxGeometry x="-957" y="1100" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-779" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据管理&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=16;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
           <mxGeometry x="-2170" y="1100" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-780" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据安全&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=16;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
-          <mxGeometry x="-1965" y="1100" width="180" height="100" as="geometry" />
+          <mxGeometry x="-1968" y="1100" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-781" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;作业管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2F5B7C;dashed=1;fontColor=#2F5B7C;" vertex="1" parent="1">
           <mxGeometry x="-2174" y="890" width="250" height="80" as="geometry" />
@@ -209,10 +209,10 @@
           <mxGeometry x="-824" y="890" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-787" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;操作日志&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=16;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
-          <mxGeometry x="-735" y="1100" width="180" height="100" as="geometry" />
+          <mxGeometry x="-552" y="1100" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-788" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;消息推送&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=16;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="1100" width="180" height="100" as="geometry" />
+          <mxGeometry x="-350" y="1100" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-789" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;基于标签的模糊搜索搜索查询&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2F5B7C;dashed=1;fontColor=#2F5B7C;" vertex="1" parent="1">
           <mxGeometry x="-1047" y="635" width="487" height="50" as="geometry" />
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="H14SYPXaXDiF_nDZO379-804" value="推送航班数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=20;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
           <mxGeometry x="-501" y="905" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H14SYPXaXDiF_nDZO379-805" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;AppKey管理&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontSize=16;fontColor=#2F5B7C;strokeColor=#2F5B7C;" vertex="1" parent="1">
+          <mxGeometry x="-754" y="1100" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
